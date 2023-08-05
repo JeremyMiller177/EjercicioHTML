@@ -1,0 +1,19 @@
+.Perfil {
+  width: 150x;
+  height: 700px;
+}
+
+.Titulo {
+  color: brown;
+}
+
+.Datos {
+  text-transform: uppercase;
+  font-size: 10;
+  color: brown;
+}
+
+.contenedor-datos {
+  display: flex;
+  gap: 16px;
+}
